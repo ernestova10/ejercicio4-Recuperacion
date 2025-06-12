@@ -1,0 +1,37 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/ejercicio4/[root]/index.html
+$dokka.location://main/#/PointingToDeclaration/ejercicio4/[root]/main.html
+$dokka.location:model////PointingToDeclaration/ejercicio4/model/index.html
+$dokka.location:model/Estadisticas///PointingToDeclaration/ejercicio4/model/-estadisticas/index.html
+$dokka.location:model/Estadisticas/Estadisticas/#kotlin.Int#kotlin.Double#kotlin.Int/PointingToDeclaration/ejercicio4/model/-estadisticas/-estadisticas.html
+$dokka.location:model/Estadisticas/mediaCalorias/#/PointingToDeclaration/ejercicio4/model/-estadisticas/media-calorias.html
+$dokka.location:model/Estadisticas/totalRecetas/#/PointingToDeclaration/ejercicio4/model/-estadisticas/total-recetas.html
+$dokka.location:model/Estadisticas/totalVeganas/#/PointingToDeclaration/ejercicio4/model/-estadisticas/total-veganas.html
+$dokka.location:model/Receta.Companion///PointingToDeclaration/ejercicio4/model/-receta/-companion/index.html
+$dokka.location:model/Receta.Companion/generarId/#/PointingToDeclaration/ejercicio4/model/-receta/-companion/generar-id.html
+$dokka.location:model/Receta///PointingToDeclaration/ejercicio4/model/-receta/index.html
+$dokka.location:model/Receta/Receta/#kotlin.Int#kotlin.String#kotlin.Int#kotlin.collections.List[kotlin.String]#kotlin.Boolean/PointingToDeclaration/ejercicio4/model/-receta/-receta.html
+$dokka.location:model/Receta/calorias/#/PointingToDeclaration/ejercicio4/model/-receta/calorias.html
+$dokka.location:model/Receta/esVegana/#/PointingToDeclaration/ejercicio4/model/-receta/es-vegana.html
+$dokka.location:model/Receta/id/#/PointingToDeclaration/ejercicio4/model/-receta/id.html
+$dokka.location:model/Receta/ingredientes/#/PointingToDeclaration/ejercicio4/model/-receta/ingredientes.html
+$dokka.location:model/Receta/nombre/#/PointingToDeclaration/ejercicio4/model/-receta/nombre.html
+$dokka.location:model/RecetaNoEcontradaException///PointingToDeclaration/ejercicio4/model/-receta-no-econtrada-exception/index.html
+$dokka.location:model/RecetaNoEcontradaException/RecetaNoEcontradaException/#kotlin.Int/PointingToDeclaration/ejercicio4/model/-receta-no-econtrada-exception/-receta-no-econtrada-exception.html
+$dokka.location:service////PointingToDeclaration/ejercicio4/service/index.html
+$dokka.location:service/Recetario///PointingToDeclaration/ejercicio4/service/-recetario/index.html
+$dokka.location:service/Recetario/Recetario/#/PointingToDeclaration/ejercicio4/service/-recetario/-recetario.html
+$dokka.location:service/Recetario/agregarReceta/#model.Receta/PointingToDeclaration/ejercicio4/service/-recetario/agregar-receta.html
+$dokka.location:service/Recetario/buscarPorNombre/#kotlin.String/PointingToDeclaration/ejercicio4/service/-recetario/buscar-por-nombre.html
+$dokka.location:service/Recetario/calcularEstadisticas/#/PointingToDeclaration/ejercicio4/service/-recetario/calcular-estadisticas.html
+$dokka.location:service/Recetario/eliminarPorId/#kotlin.Int/PointingToDeclaration/ejercicio4/service/-recetario/eliminar-por-id.html
+$dokka.location:service/Recetario/listarRecetas/#/PointingToDeclaration/ejercicio4/service/-recetario/listar-recetas.html
+$dokka.location:ui////PointingToDeclaration/ejercicio4/ui/index.html
+$dokka.location:ui/MenuConsola///PointingToDeclaration/ejercicio4/ui/-menu-consola/index.html
+$dokka.location:ui/MenuConsola/MenuConsola/#service.Recetario/PointingToDeclaration/ejercicio4/ui/-menu-consola/-menu-consola.html
+$dokka.location:ui/MenuConsola/mostrarMenu/#/PointingToDeclaration/ejercicio4/ui/-menu-consola/mostrar-menu.html
+model
+service
+ui
+
